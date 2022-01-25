@@ -17,7 +17,7 @@ Being the "new kid" is always a little bit scary, but we're looking forward to h
 🎯 Your onboarding process [starts here](#New-Hire-Checklist)! With this checklist, you'll be able to see and learn what is expected of you in the next 4 weeks: what you need to complete on different weeks, where different resources are, and links to those resources. 
 <br>
 <br>
-👆🏽 Don't be afraid to ask any questions! When in doubt, please reach out to your manager and assigned onboarding buddy (or any other team member), we're always glad to help!
+👆🏽 Don't be afraid to ask any questions! When in doubt, please reach out to your Manager and assigned Onboarding Buddy (or any other team member), we're always glad to help!
 
 
 
@@ -47,8 +47,8 @@ The following checklist provides some guidance to get you through your first wee
 <br>
 
 On your first day, you'll dive into life in FTA:
-- Meet your Manager - Make sure they have enrolled you in [FTARamp](aka.ms/ftaramp), gave you access to our [EMEA Planner](https://tasks.office.com/microsoft.onmicrosoft.com/EN-US/Home/Planner#/plantaskboard?groupId=826e2645-049b-4e51-9c49-362f012e41bb&planId=6ORBznUuSkGnzJP0O8P8dZUAER-Y&taskId=oVfT25Qw80-XrYsk-NKxu5UALHM0), FTA EMEA's ROB and Shadowing calendar.
-- Meet your onboarding Buddy - Book regular 1:1s for the first few weeks. 
+- Meet your Manager - Make sure your Manager has enrolled you in [FTARamp](aka.ms/ftaramp) to grant you access to FTA tools. Make sure you have access to our [EMEA Planner](https://tasks.office.com/microsoft.onmicrosoft.com/EN-US/Home/Planner#/plantaskboard?groupId=826e2645-049b-4e51-9c49-362f012e41bb&planId=6ORBznUuSkGnzJP0O8P8dZUAER-Y&taskId=oVfT25Qw80-XrYsk-NKxu5UALHM0) and that your Manager adds you to the FTA EMEA's ROB and Shadowing shared calendars.
+- Meet your Onboarding Buddy - Book regular 1:1s for the first few weeks. 
 - [Setup your Internal Azure subscription](https://ftawiki.microsoft.com/docs/ftaplaybook/airs/) - New to Azure? Not new to Azure? Either way you'll need a new Azure subscription.
 - [Configure your Github access](https://ftawiki.microsoft.com/docs/ftaplaybook/toolsreports/github/) - This is an Engineering team afterall. 
 - Meet your colleagues! - Ask your buddy to add and introduce you to the "EMEA Infra Team chat".
@@ -64,7 +64,7 @@ On your first day, you'll dive into life in FTA:
 
 >**Top of mind**: Introduce yourself to your peers, learn about their backgrounds, experiences, and SME areas. Ask for advice!
 
->**Expected Outcome**: After **week 1** the you should be familiar with your team and manager, have access to all the tools/resources you need to perform and get acquainted with them. Moreover, you should have been introduced to important concepts such as the PM/Engineer relationship & duties, POD structure within the EMEA team, and where FTA sits in the CXP org (high-level).
+>**Expected Outcome**: After **week 1** you should be familiar with your team and Manager, have access to all the tools/resources you need to perform and get acquainted with them. Moreover, you should have been introduced to important concepts such as the PM/Engineer relationship & duties, POD structure within the EMEA team, and where FTA sits in the CXP org (high-level).
 
 <br>
 
@@ -73,7 +73,7 @@ On your first day, you'll dive into life in FTA:
 |<ul><li>Schedule 1:1s with peers from your team and POD<sup>2</sup>.</li><li>Schedule a weekly call with your onboarding buddy.</li><li>Schedule a 1:1 with your manager.</li></ul>| Onboarding Buddy and Manager |
 |<ul><li>Make sure you have access to the following tools/resources:</li><ul><li>[FTA Wiki](https://ftawiki.microsoft.com/)</li><li>[Ceres & Auris](http://aka.ms/ceres)</li><li>[EMEA Planner](https://tasks.office.com/microsoft.onmicrosoft.com/Home/Planner/#/plantaskboard?groupId=826e2645-049b-4e51-9c49-362f012e41bb&planId=6ORBznUuSkGnzJP0O8P8dZUAER-Y)</li><li>[OneFTA](https://azurefasttrack.visualstudio.com/OneFTA/_backlogs/backlog/EMEA/Product%20Backlog%20Items)</li></ul> | FTA Hub Admin and Manager |
 |<ul><li>Check if you’re enrolled in the upcoming editions of FTA Bootcamp (check with manager) and of Azure Engineering Bootcamp (self-registration).</li></ul>| FTA Hub Admin and Manager|
-|<ul><li>Introduction to FTA org, tools, and processes – explore New Hire Resources . Make sure you add all relevant invites to your calendar).</li></ul>| Onboarding Buddy |
+|<ul><li>Introduction to FTA org, tools, and processes – explore New Hire Resources.</li></ul>| Onboarding Buddy |
 ||||
 
 <sup>1</sup> *Main Point Of Contact* - Is the person you can reach out to if you have any questions, issues, or concerns.
@@ -91,7 +91,7 @@ On your first day, you'll dive into life in FTA:
 
 >**Top of mind**: Introduce yourself to your peers, learn about their backgrounds, experiences, and SME areas. Ask for advice!
 
->**Expected Outcome**: This week is all about ypu expanding your network within FTA EMEA's team. By then, you should be familiar with FTA's mission & culture, and have had some exposure to our every day job through shadowing. Also, be familiar with processes like Product Feedback and Initiatives. 
+>**Expected Outcome**: This week is all about you expanding your network within FTA EMEA's team. By then, you should be familiar with FTA's mission & culture, and have had some exposure to our every day job through shadowing. Also, be familiar with processes like Product Feedback and Initiatives. 
 
 <br>
 
@@ -99,6 +99,7 @@ On your first day, you'll dive into life in FTA:
 |:---------------|:---------------------|
 |<ul><li>Expand your network! Reach out and schedule 1:1s with the other M1s and PMs from the Infra team.</ul></li> |Onboarding buddy|
 |<ul><li>Start looking for shadowing opportunities with your peers.</ul></li>|Onboarding buddy|
+|<ul><li>Make sure you understand and have discussed with your Onboarding buddy important processes like how to create a Planner request, Ceres best practices, and how to product feedback in Auris.</ul></li>|Onboarding buddy|
 
 <br>
 
@@ -111,7 +112,7 @@ On your first day, you'll dive into life in FTA:
 
 >**Top of mind**: Keep networking! Focus on shadowing.
 
->**Expected Outcome**: By **week 3** the new hire should have increased his/her network within FTA and be acquainted with important ongoing programs such as AMMP and FTA Live. The new hire should also have a good understanding of FTA’s mission & strategy, and how he/she can start having impact in the team by discussing it with the manager(s).
+>**Expected Outcome**: By **week 3** you should have increased your network within FTA and be acquainted with important ongoing programs such as AMMP and FTA Live. You should also have a good understanding of FTA’s mission & strategy, and how you can start having impact in the team by discussing it with the manager(s).
 
 <br>
 
@@ -134,7 +135,7 @@ On your first day, you'll dive into life in FTA:
 
 > **Top of mind**: Check in with the Leadership Team. Get to know them and ask questions!
 
-> **Expected Outcome**: Keeping in mind that the activities defined in previous weeks are not necessarily restricted to those weeks only, by **week 4** the new hire should be fairly familiar with how FTA operates and should be acquainted with FTA’s Leadership team.
+> **Expected Outcome**: Keeping in mind that the activities defined in previous weeks are not necessarily restricted to those weeks only, by **week 4** you should be fairly familiar with how FTA operates and should be acquainted with FTA’s Leadership team.
 
 <br>
 
